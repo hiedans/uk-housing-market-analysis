@@ -26,5 +26,21 @@ This project analyses housing price data to identify patterns and key factors in
 - Data visualisation
 - Analytical thinking
 
+## Business Problem
+
+Understanding the key factors that influence housing prices can help investors, policymakers, and buyers make better decisions.  
+This analysis aims to identify which features have the strongest impact on property values.
+
+## Key Insights
+
+- Properties with more rooms tend to have higher prices  
+- Crime rate negatively impacts housing values  
+- Socioeconomic factors play an important role in pricing  
+
+## Conclusion
+
+This analysis highlights key drivers of the housing market and demonstrates how data can support better investment and policy decisions.  
+
+Understanding the impact of property size and socioeconomic factors can help stakeholders make more informed and strategic choices.
 ## Author
 Hieda Silva
